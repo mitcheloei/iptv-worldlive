@@ -1,0 +1,151 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, ALVORADA FM
+http://st3.stationbr.com:8000/alvoradafm64?1427546272359.aac
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Antena 1 94.7 Fm
+http://s3.mediastreaming.it:7568/;?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Assembléia de Deus
+http://assembleia.org.br:8028/;stream.mp3
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Avioes Fortaleza-CE
+http://stream.7br.com.br:9142/;
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Boas Novas 930Khz Amazonas
+http://3653.live.streamtheworld.com/AM_RADIOONLINEAAC
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, BON JOVI
+http://icecasthd.net:27200/live?
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, BON JOVI
+http://buecrplb01.cienradios.com.ar/Bon_Jovi_y_Art_Rel_32000.aac
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, CBN Recife 105.7
+http://sh2.upx.com.br:8012/;stream.mp3
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Clube Fm Curitiba
+http://200.192.112.45:8000/clubefm.mp3?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Clube Fm Brasília
+http://sh2.upx.com.br:9082/;
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Continental FM (RS)
+http://108.168.175.149:10076/live
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Cidade 99.1 FM Fortaleza
+http://www.radioideal.net:8010/;stream/1
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Capixaba 1050Khz ES
+http://1351.live.streamtheworld.com/ES_RADIOONLINEAAC
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Clarim de Palmas - Itaí SP
+http://9523.live.streamtheworld.com/SP_RADIOONLINE3AAC
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Clube de Dourados MS
+http://4553.live.streamtheworld.com/MS_RADIOONLINE2AAC
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Deus é Amor 1210 AM - Curitiba
+http://1061.live.streamtheworld.com/PR_RADIOONLINEAAC
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Deus é Amor 640 AM - Londrina
+http://9523.live.streamtheworld.com/PR_RADIOONLINE2AAC
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Estrela de Ibiana MG
+http://5133.live.streamtheworld.com/MG_RADIOONLINE2AAC
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, FM o dia
+http://7309.live.streamtheworld.com/FMODIAAAC?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Hunter
+http://streaming.shoutcast.com/RadioHunter-TheHitzChannel?by=/live
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, IPDA Central de Produção Internacional 40kbps, São Paulo - SP
+http://1351.live.streamtheworld.com/SP_STUDIOCAAC
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, IPDA Oração 24h - 192kbps
+http://7359.live.streamtheworld.com/SP_ORACAO_ALTOAAC
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, JB FM
+http://5133.live.streamtheworld.com/JBFMAAC1?streamtheworld_user=1&nobuf=1427543809882
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Jovem Pan Fortaleza
+http://72.29.81.124:8322/;
+ 
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Lumen
+http://200.192.112.45:8000/lumenfm.mp3?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Lumen Classica
+http://200.192.112.45:8000/lumenclassica.mp3?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Manancial FM
+http://199.217.116.47:9946/;
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Mania
+http://174.127.101.183:8589/;stream.mp3?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Metrópole FM - 101.3 FM Salvador BA
+http://audio.radiometropole.net.br:8000/;
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Mix João Pessoa 93.7
+http://174.37.99.199:8318/;
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Novo Milênio 1540khz - Ribeirão Preto
+http://1351.live.streamtheworld.com/SP_RADIOONLINE2AAC
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Novos Horizonte
+http://centova6.ciclanohost.com.br:9196/;?1426530250191.mp3
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Novo Tempo SP
+http://stream.novotempo.com:1935/radio/smil:radionovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Novo Tempo RS
+http://mistreaming.com.br:8040/;?1432229132280.aac
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Novo Tempo Teresópolis
+http://stream.novotempo.com:1935/radio/smil:rntTeresopolisRJ.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Novo Tempo AM Campo Grande
+http://mistreaming.com.br:9068/;?1432229639834.aac
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Novo Tempo Curitiba
+http://stream.novotempo.com:1935/radio/smil:rntCuritibaPR.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Paracuru ômega 100.5 FM  Ceará
+http://3653.live.streamtheworld.com/CE_RADIOONLINEAAC
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Pajusara FM Maceió
+http://radio.tnh1.com.br:8000/radio103
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Prysm Radio
+http://listen.radionomy.com/prysmradio-aac
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Saudade Fm  Santos
+http://mediaserver2.bcmg.com.br:8000/saudadefm.ogg?1413260586911.aac?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Sky Gospel
+http://66.90.104.7:7050/stream;?1435677069449.aac
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Sonora 106.1 Khz MS
+http://3653.live.streamtheworld.com/MS_RADIOONLINEAAC
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Transamerica Light FM Curitiba
+http://200.170.207.3:8000/pr_light?type=.mp3?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Transamerica Pop FM Curitiba
+http://200.170.207.3:8000/pr_pop?type=.mp3?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Tomorrowland Radio
+http://streaming.radionomy.com/TomorrowlandRadioFestival
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, Stéreo 98.1 FM - Votuporanga
+http://7309.live.streamtheworld.com/SP_RADIOONLINEAAC
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, 91 Rock FM Curitiba
+http://streaming01.brlogic.com:8230/live?Grupo_UP_e_DOWN
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, 880 1060Khz MG
+http://7309.live.streamtheworld.com/MG_RADIOONLINEAAC
+
+#EXTINF:-1 tvg-logo="radios.png" tvg-logo="http://anderson.clubeon.in/lgs/png/radios.png" group-title="Rádios" radio=true, 900 de Alferes - Botelhos MG
+http://7359.live.streamtheworld.com/MG_RADIOONLINE3AAC
