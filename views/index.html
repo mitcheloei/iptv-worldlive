@@ -18,27 +18,34 @@
         <div class="col-md-offset-1 col-md-10">
           <div class="panel panel-primary">
             <div class="panel-heading">
-              <h3 class="panel-title">{{file.name}} </h3>
+              <h3 class="panel-title"><button ng-click="toggler(file)">{{file.show ? '-' : '+'}}</button> {{file.name}}</h3>
             </div>
-            <div class="panel-body">
+            <div id={{file.id}} class="panel-body" ng-show=file.show>
                 <table class="table table-hover">
                     <thead>
                       <tr>
                         <th>#</th>
+                        <th>Logo</th>
                         <th>Name</th>
                         <th>Group</th>
                         <th>Status</th>
+                        <th></th>
                       </tr>
                     </thead>
                     <tbody>
                         <tr ng-repeat="line in file.lines">
-                            <td>{{$index}}</td>
-                            <td>{{line.name}}</td>
-                            <td>{{line.group}}</td>
-                            <td>{{line.status}}</td>
+                            <td style="width: 5%;">{{$index}}</td>
+                            <td style="width: 10%;"><img height="50px" width="50px" ng-src="{{line.logo}}"/></td>
+                            <td style="width: 50%;"><a href={{line.url}}>{{line.name}}</a></td>
+                            <td style="width: 25%;">{{line.group}}</td>
+                            <td style="width: 5%;">{{line.status}}</td>
+                            <td style="width: 5%;"><img height="20px" width="20px" ng-src="{{line.statusimage}}"/></td>
                         </tr>
                     </tbody>
                 </table>
+            </div>
+            <div class="panel-footer panel-primary">
+                TOTAL: {{file.lines.length}} ON: {{file.numberOn}} OFF: {{file.numberOff}}
             </div>
           </div>
         </div><!-- /.col-sm-4 -->
